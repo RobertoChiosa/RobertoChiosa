@@ -26,6 +26,7 @@ https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg
 
 <br />
 
+[medium]: https://medium.com/@roberto.chiosa
 [gmail]: mailto:roberto.chiosa@gmail.com
 [github]: https://github.com/RobertoChiosa
 [linkedin]: https://www.linkedin.com/in/roberto-chiosa-a20931118/
