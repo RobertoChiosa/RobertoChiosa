@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am an Energy and Nuclear Engineer actually work as grant researcher of BAEDA Lab at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
+I am an Energy and Nuclear Engineer actually working as grant researcher of BAEDA Lab at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
 
 I am involved in projects dealing with advanced analysis of building related data through data mining and machine learning algorithms. 
 
