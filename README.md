@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
+<img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/readme/hero.svg" alt="Hero image">
 
 
 ### Hi, I'm Roberto <img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/main/wave.gif" width="30px">
@@ -25,7 +25,7 @@ I am actually involved in projects dealing with advanced analysis of building re
 [researchgate]: https://www.researchgate.net/profile/Roberto_Chiosa
 
 
-<img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+<img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/readme/bottom.svg" alt="bottom">
 
 
 
