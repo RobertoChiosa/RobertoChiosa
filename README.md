@@ -1,5 +1,5 @@
-### Hi, I'm Roberto <img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/main/wave.gif" width="30px">
 
+### Hi, I'm Roberto <img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/main/wave.gif" width="30px">
 I am an Energy and Nuclear Engineer actually working as grant researcher of BAEDA Lab at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
 
 I am actually involved in projects dealing with advanced analysis of building related data through data mining and machine learning algorithms. 
@@ -11,11 +11,8 @@ I am actually involved in projects dealing with advanced analysis of building re
   <br><br>
 </details>
 
-<p align="left">
-<img src="https://github.com/RobertoChiosa/RobertoChiosa/blob/main/readme/connect.png"  height="70" alt="Hero image">
-</p>
 
-
+#
 [<img align="left" alt="Roberto Chiosa | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Roberto Chiosa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Roberto Chiosa | Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
