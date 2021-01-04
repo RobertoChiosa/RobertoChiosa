@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/main/wave.gif" width="30px">
 
 I am an Energy and Nuclear Engineer actually working as grant researcher of BAEDA Lab at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
 
