@@ -1,7 +1,7 @@
 
 ### Hi, I'm Roberto <img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/main/wave.gif" width="30px">
 
-<img align='right' src="https://github.com/RobertoChiosa/RobertoChiosa/blob/main/readme/Visual%20data.gif" width="260">
+<img align='right' src="https://github.com/RobertoChiosa/RobertoChiosa/blob/main/readme/visual.gif" width="260">
 
 I am an Energy and Nuclear Engineer actually working as grant researcher of BAEDA Lab at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
 
