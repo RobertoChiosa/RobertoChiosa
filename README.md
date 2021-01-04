@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/readme/hero.svg" alt="Hero image">
+<img src="https://github.com/RobertoChiosa/RobertoChiosa/blob/main/readme/hero.svg" alt="Hero image">
 
 
 ### Hi, I'm Roberto <img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/main/wave.gif" width="30px">
@@ -7,8 +7,17 @@ I am an Energy and Nuclear Engineer actually working as grant researcher of BAED
 
 I am actually involved in projects dealing with advanced analysis of building related data through data mining and machine learning algorithms. 
 
-#
-### Connect:
+<details>
+  <summary>My Publications</summary>
+  <br>
+
+  <br><br>
+</details>
+
+<p align="center">
+<img src="https://github.com/RobertoChiosa/RobertoChiosa/blob/main/readme/hero.svg" alt="Hero image">
+</p>
+
   
 [<img align="left" alt="Roberto Chiosa | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Roberto Chiosa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -25,7 +34,7 @@ I am actually involved in projects dealing with advanced analysis of building re
 [researchgate]: https://www.researchgate.net/profile/Roberto_Chiosa
 
 
-<img src="https://raw.githubusercontent.com/RobertoChiosa/RobertoChiosa/readme/bottom.svg" alt="bottom">
+<img src="https://github.com/RobertoChiosa/RobertoChiosa/blob/main/readme/bottom.svg" alt="bottom">
 
 
 
