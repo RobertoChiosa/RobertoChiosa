@@ -10,8 +10,10 @@ I am actually involved in projects dealing with advanced analysis of building re
 <details>
   <summary>Check my Publications</summary>
   <br>
+  
+Chiosa, R.; Piscitelli, M.S.; Capozzoli, A. *A Data Analytics-Based Energy Information System (EIS) Tool to Perform Meter-Level Anomaly Detection and Diagnosis in Buildings*. Energies 2021, 14, 237. [https://www.mdpi.com/949692](https://www.mdpi.com/949692)
 
-  <br><br>
+  <br>
 </details>
 
 
@@ -25,7 +27,7 @@ Connect with me
 [<img align="left" alt="Roberto Chiosa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 
-[googlescholar]: https://scholar.google.com/
+[googlescholar]: https://scholar.google.com/ 
 [medium]: https://medium.com/@roberto.chiosa
 [gmail]: mailto:roberto.chiosa@gmail.com
 [github]: https://github.com/RobertoChiosa
