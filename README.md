@@ -27,7 +27,7 @@ Connect with me
 [<img align="left" alt="Roberto Chiosa | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 
-[googlescholar]: https://scholar.google.com/ 
+[googlescholar]: https://scholar.google.com/citations?hl=it&user=xiV6JhMAAAAJ
 [medium]: https://medium.com/@roberto.chiosa
 [gmail]: mailto:roberto.chiosa@gmail.com
 [github]: https://github.com/RobertoChiosa
