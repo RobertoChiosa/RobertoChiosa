@@ -3,7 +3,7 @@
 
 <img align='right' src="https://github.com/RobertoChiosa/RobertoChiosa/blob/main/readme/visual.gif" width="300">
 
-I am an Energy and Nuclear Engineer actually working as Researche Fellow of [BAEDA Lab](https://baeda.polito.it/) at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
+I am an Energy and Nuclear Engineer actually working as Researche Fellow of [BAEDA Lab](https://www.baeda.polito.it/) at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
 
 I am actually involved in projects dealing with advanced analysis of building related data through data mining and machine learning algorithms. 
 
