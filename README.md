@@ -5,7 +5,7 @@
 
 I am an Energy and Nuclear Engineer actually working as Researche Fellow of [BAEDA Lab](https://www.baeda.polito.it/) at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
 
-I am actually involved in projects dealing with advanced analysis of building related data through data mining and machine learning algorithms. 
+I am actually involved in projects dealing with advanced data analytics of building energy data through Artifical Intelligence algorithms. My main focus is the creation and implementation of Automated Anomaly Detection and Diagnosis.
 
 <details>
   <summary>Check my Publications</summary>
@@ -17,7 +17,7 @@ Chiosa, R.; Piscitelli, M.S.; Capozzoli, A. *A Data Analytics-Based Energy Infor
 </details>
 
 
-Connect with me 
+<hr>
 
 [<img align="left" alt="Roberto Chiosa | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 [<img align="left" alt="Roberto Chiosa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
