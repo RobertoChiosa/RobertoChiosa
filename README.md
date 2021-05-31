@@ -3,9 +3,9 @@
 
 <img align='right' src="https://github.com/RobertoChiosa/RobertoChiosa/blob/main/readme/visual.gif" width="300">
 
-I am an Energy and Nuclear Engineer actually working as PhD Student of [BAEDA Lab](https://www.baeda.polito.it/) at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
+I am an Energy and Nuclear Engineer actually working as PhD Student at [BAEDA Lab](https://www.baeda.polito.it/) at the [Department of Energy](https://www.denerg.polito.it/) of [Politecnico di Torino](https://www.polito.it/). 
 
-I am actually involved in projects dealing with advanced data analytics of building energy data through Artifical Intelligence algorithms. My main focus is the creation and implementation of Automated Anomaly Detection and Diagnosis.
+I am actually involved in projects dealing with advanced data analytics of building energy data through Artifical Intelligence algorithms. My main focus is the creation and implementation of Automated Anomaly Detection and Diagnosis methods on buildings energy data.
 
 <details>
   <summary>Check my Publications</summary>
