@@ -19,7 +19,7 @@ Chiosa, R.; Piscitelli, M.S.; Capozzoli, A. *A Data Analytics-Based Energy Infor
 
 <hr>
 
-[<img align="left" alt="Roberto Chiosa | Github" width="22px" src="readme/github-border.svg" />][github]
+[<img align="left" alt="Roberto Chiosa | Github" width="220px" src="readme/github-border.svg" />][github]
 [<img align="left" alt="Roberto Chiosa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Roberto Chiosa | Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
 [<img align="left" alt="Roberto Chiosa | Research Gate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]
