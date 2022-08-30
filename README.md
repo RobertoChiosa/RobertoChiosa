@@ -11,10 +11,12 @@ I am actually involved in projects dealing with advanced data analytics of build
   <summary>Check my Publications</summary>
   <br>
   
+  Chiosa, R., Piscitelli, M. S., Fan, C., & Capozzoli, A. (2022). Towards a self-tuned data analytics-based process for an automatic context-aware detection and diagnosis of anomalies in building energy consumption timeseries. Energy and Buildings, 270, 112302. [https://doi.org/10.1016/j.enbuild.2022.112302](https://doi.org/10.1016/j.enbuild.2022.112302).
+   
   C Fan; Y Lei; Y Sun; MS Piscitelli; R Chiosa; A Capozzoli; *Data-centric or algorithm-centric: Exploiting the performance of transfer learning for improving building energy predictions in data-scarce context*. Energy, 122775, 2021 [https://doi.org/10.1016/j.energy.2021.122775](https://doi.org/10.1016/j.energy.2021.122775)
   
 Chiosa, R.; Piscitelli, M.S.; Capozzoli, A. *A Data Analytics-Based Energy Information System (EIS) Tool to Perform Meter-Level Anomaly Detection and Diagnosis in Buildings*. Energies 2021, 14, 237. [https://doi.org/10.3390/en14010237](https://doi.org/10.3390/en14010237)
-  
+
   <br>
 </details>
 
